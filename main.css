@@ -1044,6 +1044,17 @@ nav {
         width: -webkit-fill-available;
     }
 
+    .swiper-slide>p{
+        flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    text-align: center;
+    width: 70%;
+    font-size: 5vw;
+    height: 30vh;
+    }
+
     .page5-section-img {
         margin: 15% 25% 10% 39%;
     }
