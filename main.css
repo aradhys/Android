@@ -805,7 +805,7 @@ nav {
 
     #overlay1 {
         width: 100vw;
-        height: 40%;
+        height: 50vh;
         background-color: #efeae3;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
