@@ -1072,10 +1072,9 @@ nav {
     }
 
     #footer h1 {
-        font-size: 23vw;
+        ont-size: 23vw;
         z-index: 1;
-        bottom: 20vw;
-        left: 4%;
+        left: 11%;
         position: relative;
         margin: auto;
         width: 100vw;
