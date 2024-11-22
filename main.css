@@ -850,7 +850,7 @@ nav {
     }
 
     #loader h1 {
-        font-size: 5vh;
+        font-size: 7vh;
     }
 
     #center {
@@ -1048,11 +1048,11 @@ nav {
         flex-grow: 1;
     display: flex;
     justify-content: space-around;
-    align-items: baseline;
+    align-items: flex-start;
     text-align: center;
     width: 70%;
     font-size: 5vw;
-    height: 30vh;
+    height: 38vh;
     }
 
     .page5-section-img {
